@@ -69,4 +69,3 @@ class MyFootBallDataset(InMemoryDataset):
     def num_classes(self) -> int:
         return 3
 
-MyFootBallDataset("/home/mehdi/Desktop/Datarvest/Projects/Demo/football/data")
